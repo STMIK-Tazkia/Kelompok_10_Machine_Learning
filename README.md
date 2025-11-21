@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Kelompok_10_Machine_Learning
-=======
+
 # Optimasi Prediksi Diagnosis Kanker Payudara Berbasis Biomarker Metabolik
 
 ### Penerapan Support Vector Machine (SVM) dengan Bayesian Optimization
@@ -81,7 +80,7 @@ Bapak Hendri Kharisma, S.Kom., M.T.
   * **Dataset:** Creative Commons CC BY 4.0 (UCI Repository)
   * **Referensi Utama:** Patrício, M. et al. (2018). *BMC Cancer*.
 
------
+
 
 *Proyek ini dibuat sebagai bagian dari Tugas Besar / UTS untuk mata kuliah Machine Learning yang diampu oleh Bapak Hendri Kharisma, S.Kom., M.T.*
 >>>>>>> e614413 (UTS)
